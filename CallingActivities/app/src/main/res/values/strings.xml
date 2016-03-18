@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CallingActivities</string>
+    <string name="activity1_label">This is activity 1</string>
+    <string name="activity2_label">This is activity 2</string>
+    <string name="button1_label">Call activity 2!</string>
+    <string name="button2_label">Call activity 1!</string>
+    <string name="counter">you have not clicked yet</string>
+    <string name="action_settings">dsdf</string>
+</resources>
